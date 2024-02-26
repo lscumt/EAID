@@ -1,1 +1,2 @@
-# Note: the dataset EAID will be released here.
+# Note: the dataset EAID 
+Capacity limits, please see our other repositories of this account for more information.
